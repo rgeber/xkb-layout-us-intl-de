@@ -45,7 +45,7 @@ Once active, you'll be able to type `äÄ`, `öÖ`, `üÜ` and `ß` holding down
 | RAlt + u          | ü      |
 | RAlt + Shift + a  | Ä      |
 | RAlt + Shift + o  | Ö      |
-| RAalt + Shift + u | Ü      |
+| RAlt + Shift + u  | Ü      |
 | RAlt + s          | ß      |
 
 

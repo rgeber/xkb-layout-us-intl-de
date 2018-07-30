@@ -34,6 +34,10 @@ Variants are defined under `layoutList -> layout`. If you can't find that run a 
 
 Last but not least, activate the layout using your Desktop's layout manager.
 
+### X.org config
+
+You may choose to set the layout though the cofiguration of X.org directly. The file `10-keyboard.conf` offers an example configuration. This way works regardless of the window managers capabilities.
+
 ## Usage
 
 Once active, you'll be able to type `äÄ`, `öÖ`, `üÜ` and `ß` holding down your **right alt key** and optionally the shift key. No compose key nonesense but smooth on the fly typing.
